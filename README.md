@@ -24,6 +24,9 @@ We release the PyTorch code for the MVOT_track, a multi-view crowd tracking meth
 - tqdm
 - argparse
 - shutil
+- einops
+- motmetrics
+- setuptools
 
 
 ## Training
