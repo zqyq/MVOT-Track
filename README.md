@@ -33,7 +33,7 @@ For training, first pretrain the camera-view encoder and decoder using the camer
 Please update the checkpoint path in main.py and uncomment the test code.
 
 ## Pretrained models
-You can download the checkpoints at this [link](https://pan.baidu.com/s/1gjH2CpdSkD7apaxx1fGxjQ?pwd=1ia3) code: 1ia3 or 2D pretrained [ckpt](https://pan.baidu.com/s/1X080MEK-2jrx3Lfbba5IBw?pwd=d1rk) code: d1rk
+You can download the checkpoints at this [link](https://pan.baidu.com/s/1Tyxn7Q6KbgT7idYS_hsn4Q?pwd=89wq) code: 89wq
 
 ## Acknowledgement
 This work was supported in part by National Key Research and Development Program of China (2024YFB3908500, 2024YFB3908504), National Natural Science Foundation of China (W2611096), Shenzhen Science and Technology Program (KQTD20210811090044003, KJZD20240903100022028), Scientific Foundation for Youth Scholars from Shenzhen University, City University of Hong Kong (Project No. 7030010), and Guangdong Provincial Key Laboratory of Visual Media and Multidimensional Intelligence (2026B1212010012).
