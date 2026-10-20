@@ -1,7 +1,7 @@
 # Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking
 Kaiyi Zhang, Qi Zhang*, Antoni B. Chan and Hui Huang, Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking, IJCV 2026
 
-![mvot](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization/blob/main/mvot.png)
+![mvot_track](https://github.com/zqyq/MVOT-Track/blob/main/cross_view_vis.jpg)
 
 ## Abstract
 Multi-view crowd localization and tracking aim to predict the ground-plane positions of all individuals in the scene and estimate their trajectories over time. 
