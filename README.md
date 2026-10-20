@@ -1,5 +1,5 @@
-# Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking
-Kaiyi Zhang, Qi Zhang*, Antoni B. Chan and Hui Huang, Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking, IJCV 2026
+# Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking, IJCV 2026
+Kaiyi Zhang, Qi Zhang*, Antoni B. Chan and Hui Huang
 
 ![mvot_track](https://github.com/zqyq/MVOT-Track/blob/main/cross_view_vis.jpg)
 
