@@ -11,7 +11,7 @@ For multi-view tracking, we first extend the proposed localization framework in 
 
 
 ## Overview
-We release the PyTorch code for the MVOT_track, a multi-view crowd tracking method with promising performance on Wildtrack and MultiviewX datasets. This work extends our previous ECCV paper [link](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization).
+We release the PyTorch code for the MVOT_track, a multi-view crowd tracking method with promising performance on Wildtrack and MultiviewX datasets. This work extends our previous ECCV paper Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization [link](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization).
 
 ## Dependencies
 - python
