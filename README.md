@@ -1,6 +1,6 @@
 # **Multi-View Optimal Transport for Multi-View Crowd Localization and Tracking**
 
-**IJCV 2026** | [Paper (Springer)](https://link.springer.com/article/10.1007/s11263-026-03093-7) | [DOI](https://doi.org/10.1007/s11263-026-03093-7)
+**IJCV 2026** | [Paper (Springer)](https://link.springer.com/article/10.1007/s11263-026-03093-7).
 
 **Kaiyi Zhang, Qi Zhang\*, Jixuan Chen, Antoni B. Chan, and Hui Huang**
 
@@ -60,14 +60,16 @@ If you find this repository useful in your research, please cite the relevant pa
 **IJCV 2026 — Multi-View Optimal Transport for Multi-View Crowd Localization and Tracking**
 
 ```bibtex
-@article{MVOTTrack26,
-  title   = {Multi-View Optimal Transport for Multi-View Crowd Localization and Tracking},
-  author  = {Zhang, Kaiyi and Zhang, Qi and Chen, Jixuan and Chan, Antoni B. and Huang, Hui},
-  journal = {International Journal of Computer Vision},
-  volume  = {134},
-  year    = {2026},
-  note    = {Article 485},
-  doi     = {10.1007/s11263-026-03093-7}
+@article{zhang2026multi,
+  title={Multi-View Optimal Transport for Multi-View Crowd Localization and Tracking},
+  author={Zhang, Kaiyi and Zhang, Qi and Chen, Jixuan and Chan, Antoni B. and Huang, Hui},
+  journal={International Journal of Computer Vision},
+  volume={134},
+  number={11},
+  pages={485},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/s11263-026-03093-7}
 }
 ```
 
@@ -75,14 +77,10 @@ If you find this repository useful in your research, please cite the relevant pa
 
 ```bibtex
 @inproceedings{MVOT24,
-  title     = {Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization},
-  author    = {Zhang, Qi and Zhang, Kaiyi and Chan, Antoni B. and Huang, Hui},
-  booktitle = {Computer Vision -- ECCV 2024},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {15062},
-  pages     = {19--36},
-  year      = {2024},
-  publisher = {Springer},
-  doi       = {10.1007/978-3-031-73235-5_2}
+title={Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization},
+author={Qi Zhang and Kaiyi Zhang and Antoni B. Chan and Hui Huang},
+booktitle={European Conference on Computer Vision},
+pages={19--36},
+year={2024},
 }
 ```
